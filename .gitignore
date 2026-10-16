@@ -1,0 +1,9 @@
+.env
+bin/
+web/node_modules/
+web/dist/
+*.log
+.DS_Store
+k6/out/
+*.tsbuildinfo
+.local-dev/

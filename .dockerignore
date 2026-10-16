@@ -1,0 +1,9 @@
+.git
+.local-dev
+.env
+bin
+k6/out
+web/node_modules
+web/dist
+**/*.log
+**/.DS_Store
